@@ -10,15 +10,17 @@
 <p>e) 13</p>
 <p>f) 200</p>
 <p><strong>4. Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?</strong></p>
-<p> Na minha primeira ida:
-Eu ligaria o primeiro interruptor deixando ligado por alguns minutos.
-Depois, desligaria o primeiro interruptor e ligaria o segundo interruptor e então volto para a sala com os interruptores.</p>
-<strong><p>Com as seguintes observações posso determinar qual interruptor controla cada lâmpada:</strong>
+<p><strong>Na minha primeira ida:</strong>
+<ol><li>Ligo o primeiro interruptor e aguardo alguns minutos.
+<li>Depois, desligo o primeiro interruptor e ligo o segundo interruptor.</li>
+<li>Não mexo no terceiro interruptor durante esta primeira ida.</li>
+</ol>
+</p>
+<strong><p>Na segunda ida posso determinar qual interruptor controla cada lâmpada com as seguintes observações:</strong>
 <ol>
-<li>Se a lâmpada estiver acesa, isso significa que o primeiro interruptor controla essa lâmpada.</li>
-<li>Se a lâmpada estiver apagada, mas estiver quente, isso significa que o primeiro interruptor estava ligado anteriormente e controla essa lâmpada.</li>
-<li>Se a lâmpada estiver apagada e fria, isso significa que o segundo interruptor controla essa lâmpada.</li>
-<li>A lâmpada que permanece apagada e fria é controlada pelo interruptor que eu deixei desligado.</li>
+<li>Se uma lâmpada estiver acesa, isso significa que o segundo interruptor que eu liguei controla essa lâmpada.</li>
+<li>Se uma lâmpada estiver apagada, mas estiver quente, isso significa que o primeiro interruptor que eu liguei e desliguei anteriormente controla essa lâmpada.</li>
+<li>Se a lâmpada estiver apagada e fria, isso significa que o terceiro interruptor controla essa lâmpada.</li>
 </ol>
 Portanto, agora sei qual interruptor controla cada lâmpada.</p>
 
