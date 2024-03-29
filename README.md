@@ -1,6 +1,7 @@
 <h1>Teste técnico - Target Sistemas</h1>
-<p>1. <strong>Qual o valor da variável SOMA?</strong> [Resposta questão 1](https://github.com/vinibuenr/teste-target-sistemas/blob/main/Soma%20Simples/exercicio%201.js) = <strong>91</strong></p>
-<p><strong>2. Sequência Fibonacci:</strong> [Resposta da questão 2](https://github.com/vinibuenr/teste-target-sistemas/tree/main/Fibonacci)</p>
+
+<strong>1. Qual o valor da variável SOMA?</strong> [Resposta da questão 1](https://github.com/vinibuenr/teste-target-sistemas/blob/main/Soma%20Simples/exercicio%201.js) = <strong>91</strong>
+<br><strong>2. Sequência Fibonacci:</strong> [Resposta da questão 2](https://github.com/vinibuenr/teste-target-sistemas/tree/main/Fibonacci)
 <p><strong>3. Descubra a lógica e complete o próximo elemento:</strong></p>
 <p>a) 9</p>
 <p>b) 128</p>
@@ -20,4 +21,5 @@ Depois, desligaria o primeiro interruptor e ligaria o segundo interruptor e ent�
 <li>A lâmpada que permanece apagada e fria é controlada pelo interruptor que eu deixei desligado.</li>
 </ol>
 Portanto, agora sei qual interruptor controla cada lâmpada.</p>
-<p><strong>5. Escreva um programa que inverta os caracteres de um string:</strong> [Resposta da questão 5](https://github.com/vinibuenr/teste-target-sistemas/tree/main/InverterString)</p>
+
+<br><strong>5. Escreva um programa que inverta os caracteres de um string:</strong> [Resposta da questão 5](https://github.com/vinibuenr/teste-target-sistemas/tree/main/InverterString)
